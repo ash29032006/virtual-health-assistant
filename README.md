@@ -103,5 +103,5 @@ This project is licensed under the [ISC License](LICENSE).
 ---
 
 <p align="center">
-  Made with ❤️ by specific user
+  Made with ❤️ by Ashwin Harish
 </p>
