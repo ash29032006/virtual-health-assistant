@@ -1,4 +1,4 @@
-# 🏥 Virtual Health Assistant
+#  Virtual Health Assistant
 
 > **Your AI-Powered Companion for a Healthier Life.** Integration with Google Fit, Generative AI, and immersive 3D visualizations.
 
@@ -12,22 +12,22 @@
 
 ---
 
-## ✨ Overview
+##  Overview
 
 **Virtual Health Assistant** is a cutting-edge web application designed to revolutionize how you manage your health. By leveraging the power of **Google Generative AI** and seamless integration with **Google Cloud's Fitness API**, this assistant provides personalized health insights, workout recommendations, and real-time tracking in a stunning, interactive 3D environment.
 
 Built with performance and aesthetics in mind, the app features a responsive interface, smooth animations powered by **Framer Motion**, and a robust backend utilizing **Express** and **MongoDB**.
 
-## 🚀 Key Features
+##  Key Features
 
--   **🤖 AI-Powered Insights**: Personalized health tips and analysis using Google's Generative AI.
--   **⌚ Fitness Tracking**: Real-time synchronization with Google Fit data (steps, calories, activity).
--   **🌍 Immersive 3D UI**: Interactive 3D elements powered by React Three Fiber for a modern user experience.
--   **🔒 Secure Authentication**: Robust user authentication via Firebase.
--   **📊 Data Visualization**: Beautiful charts and easy-to-read dashboards for your health metrics.
--   **⚡ Blazing Fast**: Powered by Vite for instant development server start and lightning-fast HMR.
+-   ** AI-Powered Insights**: Personalized health tips and analysis using Google's Generative AI.
+-   ** Fitness Tracking**: Real-time synchronization with Google Fit data (steps, calories, activity).
+-   ** Immersive 3D UI**: Interactive 3D elements powered by React Three Fiber for a modern user experience.
+-   ** Secure Authentication**: Robust user authentication via Firebase.
+-   ** Data Visualization**: Beautiful charts and easy-to-read dashboards for your health metrics.
+-   ** Blazing Fast**: Powered by Vite for instant development server start and lightning-fast HMR.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 -   **Framework**: [React](https://reactjs.org/)
@@ -42,7 +42,7 @@ Built with performance and aesthetics in mind, the app features a responsive int
 -   **Database**: [MongoDB (Mongoose)](https://mongoosejs.com/)
 -   **Cloud Integration**: Google Cloud Platform (Fitness API, OAuth), Firebase
 
-## 🏁 Getting Started
+##  Getting Started
 
 Follow these simple steps to set up the project locally.
 
@@ -92,7 +92,7 @@ Follow these simple steps to set up the project locally.
 5.  **Open in Browser**
     Visit `http://localhost:5173` to see the app in action!
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are always welcome! Please feel free to submit a Pull Request.
 
